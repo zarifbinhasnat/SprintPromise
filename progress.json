@@ -1,0 +1,22 @@
+{
+  "day": 1,
+  "date": "2026-06-27",
+  "phase": 1,
+  "python": {
+    "topic": "Variables, Data Types & Type Conversion",
+    "week": 1,
+    "completed": false
+  },
+  "dsa": {
+    "topic": "Two Sum",
+    "category": "arrays",
+    "difficulty": "easy",
+    "neetcode_url": "https://neetcode.io/problems/two-sum",
+    "completed": false
+  },
+  "fastapi": {
+    "topic": "Project Setup & First GET Route",
+    "completed": false
+  },
+  "combined_task_completed": false
+}
