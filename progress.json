@@ -1,21 +1,21 @@
 {
-  "day": 1,
-  "date": "2026-06-27",
+  "day": 2,
+  "date": "2026-06-30",
   "phase": 1,
   "python": {
-    "topic": "Variables, Data Types & Type Conversion",
+    "topic": "Strings — Slicing, Methods & Immutability",
     "week": 1,
     "completed": false
   },
   "dsa": {
-    "topic": "Two Sum",
-    "category": "arrays",
+    "topic": "Valid Anagram",
+    "category": "strings",
     "difficulty": "easy",
-    "neetcode_url": "https://neetcode.io/problems/two-sum",
+    "neetcode_url": "https://neetcode.io/problems/valid-anagram",
     "completed": false
   },
   "fastapi": {
-    "topic": "Project Setup & First GET Route",
+    "topic": "Path & Query Parameters",
     "completed": false
   },
   "combined_task_completed": false
