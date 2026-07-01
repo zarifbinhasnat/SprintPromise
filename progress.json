@@ -1,21 +1,21 @@
 {
-  "day": 2,
-  "date": "2026-06-30",
+  "day": 3,
+  "date": "2026-07-01",
   "phase": 1,
   "python": {
-    "topic": "Strings — Slicing, Methods & Immutability",
+    "topic": "Lists — Slicing, Mutation & When a List Beats a Dict",
     "week": 1,
     "completed": false
   },
   "dsa": {
-    "topic": "Valid Anagram",
-    "category": "strings",
+    "topic": "Contains Duplicate",
+    "category": "arrays",
     "difficulty": "easy",
-    "neetcode_url": "https://neetcode.io/problems/valid-anagram",
+    "neetcode_url": "https://neetcode.io/problems/contains-duplicate",
     "completed": false
   },
   "fastapi": {
-    "topic": "Path & Query Parameters",
+    "topic": "Request Bodies with Pydantic Models",
     "completed": false
   },
   "combined_task_completed": false
