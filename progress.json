@@ -1,21 +1,21 @@
 {
-  "day": 3,
-  "date": "2026-07-01",
+  "day": 4,
+  "date": "2026-07-02",
   "phase": 1,
   "python": {
-    "topic": "Lists — Slicing, Mutation & When a List Beats a Dict",
+    "topic": "Dicts & Sets — Comprehensions, .get(), Set Operations & Nested Structures",
     "week": 1,
     "completed": false
   },
   "dsa": {
-    "topic": "Contains Duplicate",
+    "topic": "Best Time to Buy and Sell Stock",
     "category": "arrays",
     "difficulty": "easy",
-    "neetcode_url": "https://neetcode.io/problems/contains-duplicate",
+    "neetcode_url": "https://neetcode.io/problems/best-time-to-buy-and-sell-stock",
     "completed": false
   },
   "fastapi": {
-    "topic": "Request Bodies with Pydantic Models",
+    "topic": "PUT & DELETE — Completing CRUD",
     "completed": false
   },
   "combined_task_completed": false
