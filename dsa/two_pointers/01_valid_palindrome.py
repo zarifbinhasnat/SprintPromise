@@ -1,0 +1,43 @@
+# dsa/two_pointers/01_valid_palindrome.py
+# NeetCode: https://neetcode.io/problems/valid-palindrome
+#
+# Given a string, determine if it is a palindrome, considering only
+# alphanumeric characters and ignoring case.
+
+
+def is_palindrome_brute(s):
+    cleaned = [c.lower() for c in s if c.isalnum()]
+    return cleaned == cleaned[::-1]
+    # Time:  O(n) — one pass to clean + one to reverse/compare
+    # Space: O(n) — the cleaned list is a full copy
+
+
+def is_palindrome(s):
+    left, right = 0, len(s) - 1
+    while left < right:
+        while left < right and not s[left].isalnum():
+            left += 1
+        while left < right and not s[right].isalnum():
+            right -= 1
+        if s[left].lower() != s[right].lower():
+            return False
+        left += 1
+        right -= 1
+    return True
+    # Time:  O(n) — each pointer crosses the string at most once
+    # Space: O(1) — no extra structure, just two indices
+
+
+if __name__ == "__main__":
+    cases = [
+        ("A man, a plan, a canal: Panama", True),
+        ("race a car", False),
+        (" ", True),
+        ("", True),
+        ("0P", False),
+        ("Was it a car or a cat I saw?", True),
+    ]
+    for s, expected in cases:
+        result = is_palindrome(s)
+        status = "PASS" if result == expected else "FAIL"
+        print(f"[{status}]  is_palindrome({s!r}) -> {result}")
