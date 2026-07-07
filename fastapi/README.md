@@ -10,7 +10,7 @@ fastapi/
 ├── 02_path_query_params/   Path & query parameters
 ├── 03_request_body/        POST with Pydantic models
 ├── 04_put_delete/          Full CRUD
-├── 05_response_models/     Output schemas
+├── 05_swagger_status_review/  Swagger UI deep dive + status codes
 ├── 06_error_handling/      HTTPException, custom errors
 ├── 07_middleware/          CORS, logging middleware
 ├── 08_dependencies/        Dependency injection

@@ -1,21 +1,21 @@
 {
-  "day": 4,
-  "date": "2026-07-02",
+  "day": 5,
+  "date": "2026-07-07",
   "phase": 1,
   "python": {
-    "topic": "Dicts & Sets — Comprehensions, .get(), Set Operations & Nested Structures",
+    "topic": "Control Flow — if/elif/else, Ternary, match, Truthy/Falsy",
     "week": 1,
     "completed": false
   },
   "dsa": {
-    "topic": "Best Time to Buy and Sell Stock",
-    "category": "arrays",
+    "topic": "Valid Palindrome",
+    "category": "two_pointers",
     "difficulty": "easy",
-    "neetcode_url": "https://neetcode.io/problems/best-time-to-buy-and-sell-stock",
+    "neetcode_url": "https://neetcode.io/problems/valid-palindrome",
     "completed": false
   },
   "fastapi": {
-    "topic": "PUT & DELETE — Completing CRUD",
+    "topic": "Swagger UI Deep Dive & Status Codes — Week 1 Review",
     "completed": false
   },
   "combined_task_completed": false
