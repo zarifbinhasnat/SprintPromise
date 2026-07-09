@@ -10,12 +10,12 @@ fastapi/
 ├── 02_path_query_params/   Path & query parameters
 ├── 03_request_body/        POST with Pydantic models
 ├── 04_put_delete/          Full CRUD
-├── 05_response_models/     Output schemas
+├── 05_status_codes/        Swagger UI deep-dive, response status codes
 ├── 06_error_handling/      HTTPException, custom errors
-├── 07_middleware/          CORS, logging middleware
-├── 08_dependencies/        Dependency injection
-├── 09_auth_jwt/            JWT auth flow
-├── 10_sqlalchemy/          SQLite + ORM
+├── 07_response_models/     Output schemas
+├── 08_middleware/          CORS, logging middleware
+├── 09_dependencies/        Dependency injection
+├── 10_auth_jwt/            JWT auth flow
 └── ...
 ```
 

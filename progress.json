@@ -1,21 +1,21 @@
 {
-  "day": 4,
-  "date": "2026-07-02",
+  "day": 9,
+  "date": "2026-07-09",
   "phase": 1,
   "python": {
-    "topic": "Dicts & Sets — Comprehensions, .get(), Set Operations & Nested Structures",
-    "week": 1,
+    "topic": "Comprehensions Deep-Dive — Nested Comprehensions, Generator Expressions, map/filter",
+    "week": 2,
     "completed": false
   },
   "dsa": {
-    "topic": "Best Time to Buy and Sell Stock",
+    "topic": "Move Zeroes",
     "category": "arrays",
     "difficulty": "easy",
-    "neetcode_url": "https://neetcode.io/problems/best-time-to-buy-and-sell-stock",
+    "neetcode_url": "https://leetcode.com/problems/move-zeroes/",
     "completed": false
   },
   "fastapi": {
-    "topic": "PUT & DELETE — Completing CRUD",
+    "topic": "Dependency Injection — Depends()",
     "completed": false
   },
   "combined_task_completed": false
