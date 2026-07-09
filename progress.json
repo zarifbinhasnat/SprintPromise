@@ -1,21 +1,21 @@
 {
-  "day": 5,
+  "day": 9,
   "date": "2026-07-09",
   "phase": 1,
   "python": {
-    "topic": "Control Flow — if/elif/else, Ternary Expressions, match Statements, Truthy/Falsy",
-    "week": 1,
+    "topic": "Comprehensions Deep-Dive — Nested Comprehensions, Generator Expressions, map/filter",
+    "week": 2,
     "completed": false
   },
   "dsa": {
-    "topic": "Valid Palindrome",
-    "category": "two_pointers",
+    "topic": "Move Zeroes",
+    "category": "arrays",
     "difficulty": "easy",
-    "neetcode_url": "https://neetcode.io/problems/valid-palindrome",
+    "neetcode_url": "https://leetcode.com/problems/move-zeroes/",
     "completed": false
   },
   "fastapi": {
-    "topic": "Swagger UI Deep-Dive & Response Status Codes",
+    "topic": "Dependency Injection — Depends()",
     "completed": false
   },
   "combined_task_completed": false
