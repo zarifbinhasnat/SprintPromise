@@ -15,7 +15,7 @@ fastapi/
 ├── 07_response_models/     Output schemas
 ├── 08_middleware/          CORS, logging middleware
 ├── 09_dependencies/        Dependency injection
-├── 10_auth_jwt/            JWT auth flow
+├── 10_week2_review/        CRUD + status codes + error handling + dependencies, reviewed
 └── ...
 ```
 
