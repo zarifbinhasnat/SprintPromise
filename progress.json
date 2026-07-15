@@ -1,21 +1,21 @@
 {
-  "day": 9,
-  "date": "2026-07-09",
+  "day": 10,
+  "date": "2026-07-13",
   "phase": 1,
   "python": {
-    "topic": "Comprehensions Deep-Dive — Nested Comprehensions, Generator Expressions, map/filter",
-    "week": 2,
+    "topic": "Lambdas, map(), filter(), sorted(key=...)",
+    "week": 3,
     "completed": false
   },
   "dsa": {
-    "topic": "Move Zeroes",
-    "category": "arrays",
+    "topic": "Valid Parentheses",
+    "category": "stack",
     "difficulty": "easy",
-    "neetcode_url": "https://leetcode.com/problems/move-zeroes/",
+    "neetcode_url": "https://neetcode.io/problems/valid-parentheses",
     "completed": false
   },
   "fastapi": {
-    "topic": "Dependency Injection — Depends()",
+    "topic": "Week 2 Mini-Review — CRUD, status codes, error handling, dependencies",
     "completed": false
   },
   "combined_task_completed": false
