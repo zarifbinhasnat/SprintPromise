@@ -1,21 +1,21 @@
 {
-  "day": 11,
+  "day": 14,
   "date": "2026-07-17",
   "phase": 1,
   "python": {
-    "topic": "sorted() vs .sort(), stability, multi-key sorts with tuples",
+    "topic": "Type Hints Basics — list[int], Optional, function annotations",
     "week": 3,
     "completed": false
   },
   "dsa": {
-    "topic": "Min Stack",
-    "category": "stack",
+    "topic": "Binary Search",
+    "category": "binary_search",
     "difficulty": "easy",
-    "neetcode_url": "https://neetcode.io/problems/minimum-stack",
+    "neetcode_url": "https://neetcode.io/problems/binary-search",
     "completed": false
   },
   "fastapi": {
-    "topic": "Custom Exception Handlers — @app.exception_handler",
+    "topic": "Request Logging — timing + status middleware",
     "completed": false
   },
   "combined_task_completed": false
