@@ -16,6 +16,7 @@ fastapi/
 ├── 08_middleware/          CORS, logging middleware
 ├── 09_dependencies/        Dependency injection
 ├── 10_week2_review/        CRUD + status codes + error handling + dependencies, reviewed
+├── 11_custom_exception_handlers/  @app.exception_handler, consistent error envelopes
 └── ...
 ```
 

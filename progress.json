@@ -1,21 +1,21 @@
 {
-  "day": 10,
-  "date": "2026-07-13",
+  "day": 11,
+  "date": "2026-07-17",
   "phase": 1,
   "python": {
-    "topic": "Lambdas, map(), filter(), sorted(key=...)",
+    "topic": "sorted() vs .sort(), stability, multi-key sorts with tuples",
     "week": 3,
     "completed": false
   },
   "dsa": {
-    "topic": "Valid Parentheses",
+    "topic": "Min Stack",
     "category": "stack",
     "difficulty": "easy",
-    "neetcode_url": "https://neetcode.io/problems/valid-parentheses",
+    "neetcode_url": "https://neetcode.io/problems/minimum-stack",
     "completed": false
   },
   "fastapi": {
-    "topic": "Week 2 Mini-Review — CRUD, status codes, error handling, dependencies",
+    "topic": "Custom Exception Handlers — @app.exception_handler",
     "completed": false
   },
   "combined_task_completed": false
