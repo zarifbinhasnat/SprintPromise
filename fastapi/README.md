@@ -20,6 +20,9 @@ fastapi/
 ├── 12_lifespan_events/     @asynccontextmanager startup/shutdown hooks
 ├── 13_cors_middleware/     CORSMiddleware, allowed origins, preflight requests
 ├── 14_request_logging/     Middleware logging method, path, status, duration
+├── 16_class_based_middleware/  BaseHTTPMiddleware subclass, add_middleware()
+├── 17_middleware_ordering_gzip/  Stacking middleware, onion-model ordering, GZipMiddleware
+├── 18_lifespan_resource_pool/   Lifespan-managed connection pool via Depends()
 └── ...
 ```
 

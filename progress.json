@@ -1,21 +1,21 @@
 {
-  "day": 14,
-  "date": "2026-07-17",
+  "day": 18,
+  "date": "2026-07-23",
   "phase": 1,
   "python": {
-    "topic": "Type Hints Basics — list[int], Optional, function annotations",
-    "week": 3,
+    "topic": "@property — computed attributes, validated setters, read-only properties",
+    "week": 4,
     "completed": false
   },
   "dsa": {
-    "topic": "Binary Search",
-    "category": "binary_search",
+    "topic": "Merge Two Sorted Lists",
+    "category": "linked_list",
     "difficulty": "easy",
-    "neetcode_url": "https://neetcode.io/problems/binary-search",
+    "neetcode_url": "https://neetcode.io/problems/merge-two-sorted-linked-lists",
     "completed": false
   },
   "fastapi": {
-    "topic": "Request Logging — timing + status middleware",
+    "topic": "Lifespan-Managed Resource Pooling — ConnectionPool via Depends()",
     "completed": false
   },
   "combined_task_completed": false

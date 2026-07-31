@@ -16,6 +16,13 @@ python/
 ├── 08_args_kwargs/             Day 8
 ├── 09_comprehensions/          Day 9
 ├── 10_lambdas_map_filter/      Day 10
+├── 11_sorting_deep_dive/       Day 11
+├── 12_recursion/               Day 12
+├── 13_memoization/             Day 13
+├── 14_type_hints/              Day 14
+├── 16_oop_classes/             Day 16
+├── 17_methods_classmethods_static/  Day 17
+├── 18_properties/              Day 18
 └── ...
 ```
 
